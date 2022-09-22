@@ -1,0 +1,14 @@
+1.code中存放着源码
+
+2.data里是秘密信息
+
+3.data_preparation里是预处理后的数据集
+
+4.generate_output_secret里是生成的隐写MIDI音频（选取的最佳参数生成结果）
+
+5.generate_output_test里是不同参数下的生成结果
+
+6.midi_dataset里是数据集
+
+7.model里是训练好的模型
+

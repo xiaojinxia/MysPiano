@@ -1,0 +1,10 @@
+# Name                    Version                   Build  Channel
+future                    0.18.2                   pypi_0    pypi
+h5py                      2.10.0                   pypi_0    pypi
+keras                     2.4.3                    pypi_0    pypi
+matplotlib                3.4.3                    pypi_0    pypi
+music21                   6.3.0                    pypi_0    pypi
+numpy                     1.19.5                   pypi_0    pypi
+pygame                    2.1.2                    pypi_0    pypi
+python                    3.8.13               h6244533_0    defaults
+tensorflow-gpu            2.4.1                    pypi_0    pypi
